@@ -32,7 +32,7 @@
 ### 1. Клонирование проекта
 
 ```bash
-cd youtrack-rest-assured-tests
+cd youtrack-rest-assured-tests-done
 ```
 
 ### 2. Обновление зависимостей
