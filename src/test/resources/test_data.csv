@@ -1,0 +1,6 @@
+testId,projectId,summary,description,expectedStatus
+DATA_001,0-0,First Test Issue from CSV,Description for first issue,200
+DATA_002,0-0,Second Test Issue from CSV,Description for second issue,200
+DATA_003,0-0,Third Test Issue from CSV,Description for third issue,200
+DATA_004,0-0,Issue with Special Chars #@$,Testing special characters,200
+DATA_005,0-0,Очень длинный заголовок issue для проверки,Long text description,200
